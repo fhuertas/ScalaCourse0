@@ -12,15 +12,16 @@
 
     <modules>
         <module>m0</module>
+        <module>m1</module>
     </modules>
 
     <properties>
-        <scala.version>2.10.5</scala.version>
+        <scala.version>2.10.6</scala.version>
         <scala.binary.version>2.10</scala.binary.version>
         <!--<scalamock.version>3.2.2</scalamock.version>-->
         <junit.version>4.12</junit.version>
         <scalatest.version>2.2.5</scalatest.version>
-        <scalamock.version>3.2</scalamock.version>
+        <scalamock.version>3.2.2</scalamock.version>
         <powermock.version>1.6.3</powermock.version>
     </properties>
 
